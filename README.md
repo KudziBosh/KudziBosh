@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kudzi Bosh
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](([https://www.linkedin.com/in/kudzai-arnold-bosha-97084417a/])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kudzai-arnold-bosha-97084417a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/KudziBosh)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxyz)
 
