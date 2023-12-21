@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kudzai-arnold-bosha-97084417a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/KudziBosh)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxyz)
+[![Website](https://img.shields.io/badge/-Website-green?style=flat-square&logo=website&logoColor=white)](https://kudzaibosha.com)
 
 ## About Me
 I'm a passionate back-end developer with a focus on meta-based applications. Currently, I'm working on developing a WhatsApp online banking platform, leveraging my skills in back-end development.
