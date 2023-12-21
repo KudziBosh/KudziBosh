@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kudzi Bosh
+# Hi there! 👋 I'm Kudzai Bosha
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kudzai-arnold-bosha-97084417a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/KudziBosh)
