@@ -27,15 +27,15 @@ A flexible invoicing system.
 Language: JavaScript
 
 ### [Collate Stock](https://github.com/KudziBosh/Collate_Stock)
-Cloud-based Stock control system that is suitable for the small shop that is looking to scale its operations.
+This is a Django-based stock control system designed to help manage inventory and track stock levels. It provides a web interface for users to perform various stock-related operations such as adding products, updating quantities, and generating reports.
 Language: Python
 
 ### [Sentiment Analysis](https://github.com/KudziBosh/Sentiment-Analysis)
 A project that performs sentiment analysis using Python's Flask Framework and IBM Natural Language Processing Libraries.
 
 ### [Chatbot API](https://github.com/KudziBosh/ChatbotAPI)
-An API for building chatbots using Python.
-
+The WhatsApp Banking System Integration with Django is an intermediary system that bridges custom company systems and Facebook's WhatsApp APIs. This integration allows users to interact with a core banking system through WhatsApp, providing a seamless and convenient banking experience. Built on the Django web framework, this system leverages its powerful features to handle the backend logic and facilitate communication between different components.
+Language: Python
 
 ## Ask Me About
 - 💬 Ask me about data structures.
