@@ -16,6 +16,27 @@ I'm a passionate back-end developer with a focus on meta-based applications. Cur
 ## Help Needed
 - 🤔 I’m looking for help with sequencing process flows when dealing with Meta message APIs.
 
+## Projects
+
+### [Peer-to-Peer Delivery Application](https://github.com/KudziBosh/Peer-to-Peer-Delivery-Application)
+A delivery application where any verified user can deliver goods around the country for other users.
+Language: Java
+
+### [Invoicing System](https://github.com/KudziBosh/Invoicing-System)
+A flexible invoicing system.
+Language: JavaScript
+
+### [Collate Stock](https://github.com/KudziBosh/Collate_Stock)
+Cloud-based Stock control system that is suitable for the small shop that is looking to scale its operations.
+Language: Python
+
+### [Sentiment Analysis](https://github.com/KudziBosh/Sentiment-Analysis)
+A project that performs sentiment analysis using Python's Flask Framework and IBM Natural Language Processing Libraries.
+
+### [Chatbot API](https://github.com/KudziBosh/ChatbotAPI)
+An API for building chatbots using Python.
+
+
 ## Ask Me About
 - 💬 Ask me about data structures.
 
@@ -24,3 +45,5 @@ You can reach me through my website: [kudzaibosha.com/contact/](https://kudzaibo
 
 ## Fun Fact
 ⚡ Fun fact: I can name most dinosaur species off the top of my head, and my team placed 3rd in the Book of African Records quiz competition.
+
+
