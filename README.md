@@ -8,13 +8,13 @@
 I'm a passionate back-end developer with a focus on meta-based applications. Currently, I'm working on developing a WhatsApp online banking platform, leveraging my skills in back-end development.
 
 ## What I'm Working On
-- 🔭 I’m currently working on back-end development for meta-based applications with a WhatsApp online banking platform.
+- 🔭 I’m working on back-end development for meta-based applications with a WhatsApp online banking platform.
 
 ## What I'm Learning
 - 🌱 I’m currently learning to incorporate AI in back-end development.
 
 ## Help Needed
-- 🤔 I’m looking for help with sequencing process flows when dealing with Meta message APIs.
+- 🤔 I’m seeking help with sequencing process flows when dealing with Meta message APIs.
 
 ## Projects
 
@@ -26,7 +26,7 @@ Language: Java
 A flexible invoicing system.
 Language: JavaScript
 
-### [Collate Stock](https://github.com/KudziBosh/Collate_Stock)
+### [Stock Control System](https://github.com/KudziBosh/Collate_Stock)
 This is a Django-based stock control system designed to help manage inventory and track stock levels. It provides a web interface for users to perform various stock-related operations such as adding products, updating quantities, and generating reports.
 Language: Python
 
@@ -44,6 +44,6 @@ Language: Python
 You can reach me through my website: [kudzaibosha.com/contact/](https://kudzaibosha.com/contact/).
 
 ## Fun Fact
-⚡ Fun fact: I can name most dinosaur species off the top of my head, and my team placed 3rd in the Book of African Records quiz competition.
+⚡ Fun fact: I know the first 12 digits of Pi off-head and my favorite geologic period is the Mesozoic. 
 
 
