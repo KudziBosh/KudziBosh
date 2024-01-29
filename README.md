@@ -41,7 +41,7 @@ Language: Python
 - 💬 Ask me about data structures.
 
 ## How to Reach Me
-You can reach me through my website: [Contact Page](https://kudzaibosha.com/contact/) or directly through my email [Email](boshakudzai@gmail.com)
+You can reach me through my website: [Contact Page](https://kudzaibosha.com/contact/) or directly through my email boshakudzai@gmail.com
 
 ## Fun Fact
 ⚡ Fun fact: I know the first 12 digits of Pi off-head and my favorite geologic period is the Mesozoic. 
