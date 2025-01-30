@@ -14,7 +14,7 @@ I'm a passionate back-end developer with a focus on meta-based applications. Cur
 - 🌱 I’m currently learning to incorporate AI in back-end development.
 
 ## Help Needed
-- 🤔 I’m seeking help with sequencing process flows when dealing with Meta message APIs.
+- 🤔 Incoperating Azure API an Function services into my self hosted apps
 
 ## Projects
 
